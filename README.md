@@ -1,6 +1,6 @@
 sbrycbc
 
-## Hi, I am a MERN Stack Developer 👩‍💻
+## Hi, I am Sabriye 🍀✌️
 
 🔭 I am looking for a full-time Full Stack Developer position where I can further deepen my knowledge and hone my skills.
 
