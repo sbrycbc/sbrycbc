@@ -1,16 +1,13 @@
-### Hi there 👋
+sbrycbc
 
-<!--
-**sbrycbc/sbrycbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I am a MERN Stack Developer 👩‍💻
 
-Here are some ideas to get you started:
+🔭 I am looking for a full-time Full Stack Developer position where I can further deepen my knowledge and hone my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I like to build websites and web applications in Bootstrap, JavaScript, React, Nodejs, Mongodb and Express.
+
+👯 As web development is my passion, I love to learn new Technologies.
+
+💬 Feel free to ask me anything about my codes.
+
+## I am a mother 😉 a wife 😍 a runner 🏃‍♂️ a cat lover 🐈‍⬛ with a big sense of humor ☕. Always willing to learn and open to innovations 🌏. Excited about working on ambitious projects 🎗 with positive people. For more info, feel free to contact me🍀🎶🍀
