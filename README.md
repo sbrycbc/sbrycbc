@@ -12,7 +12,7 @@ sbrycbc
 
 <br />
 
-- [My Portfolio](https://sbrycbc.github.io/my-portfolio/ "My Portfolio")
+- [My Portfolio](https://my-portfolio-two-puce-68.vercel.app/ "My Portfolio")
 
 <br />
 
