@@ -12,7 +12,7 @@ sbrycbc
 
 <br/> 
 
-[ 💜 My Portfolio  ](https://my-portfolio-sbrycbc.vercel.app/) 
+💜 [_My Portfolio_ ](https://my-portfolio-sbrycbc.vercel.app/) 
 
 
 
