@@ -25,6 +25,11 @@ sbrycbc
 I am a mother 😉 a wife 😍 a runner 🏃‍♂️ a cat lover 🐈‍⬛ with a big sense of humor ☕. Always willing to learn and open to innovations 🌏. Excited about working on ambitious projects 🎗 with positive people. For more info, feel free to contact me🍀🎶🍀
 
 
+----
+
+<img src="https://github-readme-stats.vercel.app/api?usernamesbrycbc=&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 
 
 
