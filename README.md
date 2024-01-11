@@ -6,7 +6,7 @@
 
  - 👯 As web development is my passion, I love to learn new Technologies.
  
- - 👨‍💻 All of my projects are available at [https://my-portfolio-sbrycbc.vercel.app/](https://my-portfolio-sbrycbc.vercel.app/)
+ - 💜 [_My Portfolio_ ](https://my-portfolio-sbrycbc.vercel.app/) 
  
  - 📫 How to reach me **sabriyecbc@gmail.com**
 
