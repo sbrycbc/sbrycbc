@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Sabriye</h1>
-
+ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sabriye
+ 
  - 🎶 I am looking for a full-time Full Stack Developer position where I can further deepen my knowledge and hone my skills.
 
  - 🌱 I like to build websites and web applications in Bootstrap, JavaScript, React, Nodejs, Mongodb and Express.
