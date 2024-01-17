@@ -1,4 +1,8 @@
- Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sabriye
+   Hi,  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sabriye :) 
+ <br/>
+ <h1> 🎵 Welcome to my GitHub Profile! 🍀 </h1>
+ <br/>
+ 
  
  - 🎶 I am looking for a full-time Full Stack Developer position where I can further deepen my knowledge and hone my skills.
 
