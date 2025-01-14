@@ -63,9 +63,7 @@ I am a mother 😉 a wife 😍 a runner 🏃‍♂️ a cat lover 🐈‍⬛ wit
 
  
  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux"/>
-  <a href="https://www.python.org/" target="_blank">
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
-    </a>
+
  
  <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/> 
  
